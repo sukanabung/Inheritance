@@ -1,0 +1,15 @@
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\bin\Debug\net6.0\prak8.exe
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\bin\Debug\net6.0\prak8.deps.json
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\bin\Debug\net6.0\prak8.runtimeconfig.json
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\bin\Debug\net6.0\prak8.dll
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\bin\Debug\net6.0\prak8.pdb
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\obj\Debug\net6.0\prak8.csproj.AssemblyReference.cache
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\obj\Debug\net6.0\prak8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\obj\Debug\net6.0\prak8.AssemblyInfoInputs.cache
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\obj\Debug\net6.0\prak8.AssemblyInfo.cs
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\obj\Debug\net6.0\prak8.csproj.CoreCompileInputs.cache
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\obj\Debug\net6.0\prak8.dll
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\obj\Debug\net6.0\refint\prak8.dll
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\obj\Debug\net6.0\prak8.pdb
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\obj\Debug\net6.0\prak8.genruntimeconfig.cache
+E:\Kuliah\Pemrograman\pemrogramanweek8\prak8\prak8\obj\Debug\net6.0\ref\prak8.dll
